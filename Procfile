@@ -1,1 +1,1 @@
-worker: node adrian.js
+worker: npm start
